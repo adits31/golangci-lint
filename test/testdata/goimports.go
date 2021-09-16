@@ -3,7 +3,8 @@ package testdata
 
 import (
 	"fmt" // ERROR "File is not `goimports`-ed"
-	"github.com/golangci/golangci-lint/pkg/config"
+
+	"github.com/adits31/golangci-lint/pkg/config"
 )
 
 func Bar() {

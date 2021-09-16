@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/golangci/golangci-lint/pkg/logutils"
+	"github.com/adits31/golangci-lint/pkg/logutils"
 )
 
 const noStagesText = "no stages"

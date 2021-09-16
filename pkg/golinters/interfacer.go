@@ -7,9 +7,9 @@ import (
 	"golang.org/x/tools/go/analysis/passes/buildssa"
 	"mvdan.cc/interfacer/check"
 
-	"github.com/golangci/golangci-lint/pkg/golinters/goanalysis"
-	"github.com/golangci/golangci-lint/pkg/lint/linter"
-	"github.com/golangci/golangci-lint/pkg/result"
+	"github.com/adits31/golangci-lint/pkg/golinters/goanalysis"
+	"github.com/adits31/golangci-lint/pkg/lint/linter"
+	"github.com/adits31/golangci-lint/pkg/result"
 )
 
 const interfacerName = "interfacer"

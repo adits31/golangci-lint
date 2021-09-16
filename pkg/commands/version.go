@@ -7,7 +7,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 
-	"github.com/golangci/golangci-lint/pkg/config"
+	"github.com/adits31/golangci-lint/pkg/config"
 )
 
 type jsonVersion struct {

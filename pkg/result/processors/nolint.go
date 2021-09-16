@@ -8,11 +8,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/golangci/golangci-lint/pkg/golinters"
-	"github.com/golangci/golangci-lint/pkg/lint/linter"
-	"github.com/golangci/golangci-lint/pkg/lint/lintersdb"
-	"github.com/golangci/golangci-lint/pkg/logutils"
-	"github.com/golangci/golangci-lint/pkg/result"
+	"github.com/adits31/golangci-lint/pkg/golinters"
+	"github.com/adits31/golangci-lint/pkg/lint/linter"
+	"github.com/adits31/golangci-lint/pkg/lint/lintersdb"
+	"github.com/adits31/golangci-lint/pkg/logutils"
+	"github.com/adits31/golangci-lint/pkg/result"
 )
 
 var nolintDebugf = logutils.Debug("nolint")

@@ -11,8 +11,8 @@ import (
 	"golang.org/x/tools/go/analysis"
 	"mvdan.cc/gofumpt/format"
 
-	"github.com/golangci/golangci-lint/pkg/golinters/goanalysis"
-	"github.com/golangci/golangci-lint/pkg/lint/linter"
+	"github.com/adits31/golangci-lint/pkg/golinters/goanalysis"
+	"github.com/adits31/golangci-lint/pkg/lint/linter"
 )
 
 const gofumptName = "gofumpt"

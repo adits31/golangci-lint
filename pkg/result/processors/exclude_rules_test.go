@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/golangci/golangci-lint/pkg/fsutils"
-	"github.com/golangci/golangci-lint/pkg/result"
+	"github.com/adits31/golangci-lint/pkg/fsutils"
+	"github.com/adits31/golangci-lint/pkg/result"
 )
 
 func TestExcludeRulesMultiple(t *testing.T) {

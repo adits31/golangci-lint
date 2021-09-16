@@ -34,11 +34,11 @@ import (
 	"golang.org/x/tools/go/packages"
 	"golang.org/x/tools/go/types/objectpath"
 
-	"github.com/golangci/golangci-lint/internal/errorutil"
-	"github.com/golangci/golangci-lint/internal/pkgcache"
-	"github.com/golangci/golangci-lint/pkg/golinters/goanalysis/load"
-	"github.com/golangci/golangci-lint/pkg/logutils"
-	"github.com/golangci/golangci-lint/pkg/timeutils"
+	"github.com/adits31/golangci-lint/internal/errorutil"
+	"github.com/adits31/golangci-lint/internal/pkgcache"
+	"github.com/adits31/golangci-lint/pkg/golinters/goanalysis/load"
+	"github.com/adits31/golangci-lint/pkg/logutils"
+	"github.com/adits31/golangci-lint/pkg/timeutils"
 )
 
 var (

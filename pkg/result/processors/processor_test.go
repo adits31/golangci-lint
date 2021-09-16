@@ -4,7 +4,7 @@ import (
 	"go/token"
 	"testing"
 
-	"github.com/golangci/golangci-lint/pkg/result"
+	"github.com/adits31/golangci-lint/pkg/result"
 
 	"github.com/stretchr/testify/assert"
 )

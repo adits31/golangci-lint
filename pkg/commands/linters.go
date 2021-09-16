@@ -7,7 +7,7 @@ import (
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 
-	"github.com/golangci/golangci-lint/pkg/lint/linter"
+	"github.com/adits31/golangci-lint/pkg/lint/linter"
 )
 
 func (e *Executor) initLinters() {

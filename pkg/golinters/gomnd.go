@@ -4,8 +4,8 @@ import (
 	mnd "github.com/tommy-muehle/go-mnd"
 	"golang.org/x/tools/go/analysis"
 
-	"github.com/golangci/golangci-lint/pkg/config"
-	"github.com/golangci/golangci-lint/pkg/golinters/goanalysis"
+	"github.com/adits31/golangci-lint/pkg/config"
+	"github.com/adits31/golangci-lint/pkg/golinters/goanalysis"
 )
 
 func NewGoMND(cfg *config.Config) *goanalysis.Linter {

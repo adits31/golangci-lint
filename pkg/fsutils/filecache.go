@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/golangci/golangci-lint/pkg/logutils"
+	"github.com/adits31/golangci-lint/pkg/logutils"
 )
 
 type FileCache struct {

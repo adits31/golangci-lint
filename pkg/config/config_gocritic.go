@@ -10,7 +10,7 @@ import (
 
 	_ "github.com/go-critic/go-critic/checkers" // this import register checkers
 
-	"github.com/golangci/golangci-lint/pkg/logutils"
+	"github.com/adits31/golangci-lint/pkg/logutils"
 )
 
 const gocriticDebugKey = "gocritic"
