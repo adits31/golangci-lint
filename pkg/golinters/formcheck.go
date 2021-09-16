@@ -11,7 +11,7 @@ import (
 )
 
 var Analyzer = &analysis.Analyzer{
-	Name: "addlint",
+	Name: "formcheck",
 	Doc:  "reports integer additions",
 	Run:  run,
 }
